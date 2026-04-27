@@ -2,9 +2,7 @@ RedBlock is the best free open source youtube ad blocker which blocks video ads 
 
 Unload the RedBlock Extension in Chrome or Edge and Enjoy Ad free Youtube!!
 
-<img width="291" height="369" alt="image" src="https://github.com/user-attachments/assets/803edc2e-d764-4b2d-a1f5-081d39d012f8" />
-
-<img width="305" height="390" alt="image" src="https://github.com/user-attachments/assets/4902f4b9-6485-4144-a9d4-471c3fe6b566" />
+<img width="291" height="369" alt="image" src="https://github.com/user-attachments/assets/803edc2e-d764-4b2d-a1f5-081d39d012f8" /> <img width="305" height="390" alt="image" src="https://github.com/user-attachments/assets/4902f4b9-6485-4144-a9d4-471c3fe6b566" />
 
 
 
