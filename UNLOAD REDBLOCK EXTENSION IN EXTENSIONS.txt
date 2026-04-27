@@ -1,0 +1,4 @@
+1.Turn on deleloper mode on chrome or edge
+2.unload the RedBlock file 
+3.enjoy 
+All other files are the source code for people to look at only unload the RedBlock
