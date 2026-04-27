@@ -2,11 +2,11 @@ RedBlock is the best free open source youtube ad blocker which blocks video ads 
 
 All code is in the zipped file and the extension (RedBlock Extension) all other files are the code inside hope this makes easier to explain for new people!
 
-1.Unzip file 
-2. Turn developer mode on Chrome or Edge (Works on both)
-3. unload the RedBlock Extension folder
-4.pin the extension
-5. go on Youtube and Your done !!
+
+1. Turn developer mode on Chrome or Edge (Works on both)
+2. unload the RedBlock Extension folder
+3.pin the extension
+4. go on Youtube and Your done !!
 Open Source and free will update if anything break! Enjoy!!
 
 Dm if any issues or Problems!!
