@@ -7,6 +7,7 @@ All code is in the zipped file and the extension (RedBlock Extension) all other 
 2. unload the RedBlock Extension folder
 3.pin the extension
 4. go on Youtube and Your done !!
+
 Open Source and free will update if anything break! Enjoy!!
 
 Dm if any issues or Problems!!
